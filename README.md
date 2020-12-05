@@ -3,12 +3,84 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 
 ## Table of Contents
 * [Surveys](#survey)
+* [Transformers](#transformers)
 * [Vision-Only PTMs](#vision-only-ptms)
 * [Language-Only PTMs](#language-only-ptms)
 * [Vision-Language PTMs](#vision-language-ptms)
 
 ## Survey
 [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
+
+## Transformers
+
+**Performer**
+
+[Masked language modeling for proteins via linearly scalable long-context transformers](https://arxiv.org/pdf/2006.03555.pdf), arXiv, 2020.
+
+**Linformer**
+
+[Linformer: Selfattention with linear complexity.](https://arxiv.org/pdf/2006.04768.pdf), arXiv, 2020.
+
+**Linear Transformers**
+
+[Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/pdf/2006.16236.pdf), arXiv, 2020.
+
+**BigBird**
+
+[Big bird: Transformers for longer sequences.](https://arxiv.org/pdf/2007.14062.pdf), arXiv, 2020.
+
+**Synthesizer**
+
+[Synthesizer: Rethinking self-attention in transformer models.](https://arxiv.org/pdf/2005.00743.pdf), arXiv, 2020.
+
+**ETC**
+
+[Etc: Encoding long and structured data in transformers.](https://arxiv.org/pdf/2004.08483.pdf), arXiv, 2020.
+
+**Longformer**
+[Longformer: The long-document transformer.](https://arxiv.org/pdf/2004.05150.pdf), arXiv, 2020.
+
+**Sinkhorn Transformer**
+
+[Sparse sinkhorn attention.](https://arxiv.org/pdf/2002.11296.pdf), arXiv, 2020.
+
+**Compressive Transformer**
+
+[Compressive transformers for long-range sequence modelling.](https://arxiv.org/pdf/1911.05507.pdf), ICLR, 2020.
+
+**Routing Transformer**
+
+[Efficient Content-Based Sparse Attention with Routing Transformers](https://arxiv.org/pdf/2003.05997.pdf), arXiv, 2020.
+
+**Reformer**
+[Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
+
+**Axial Transformer**
+
+[Axial attention in multidimensional transformers.](https://arxiv.org/pdf/1912.12180.pdf), arXiv, 2019.
+
+**Sparse Transformer**
+[Generating long sequences with sparse transformers.](https://arxiv.org/pdf/1904.10509.pdf)
+
+**Transformer-XL**
+
+[Transformer-xl: Attentive language models beyond a fixed-length context.](https://arxiv.org/pdf/1901.02860.pdf), arXiv, 2019.
+
+**Set Transformer**
+
+[Set transformer: A framework for attention-based permutation-invariant neural networks.](https://arxiv.org/pdf/1810.00825.pdf), ICML, 2019.
+
+**Image Transformer**
+
+[Image transformer.](https://arxiv.org/pdf/1802.05751.pdf), ICML, 2018.
+
+**Memory Compressed**
+
+[Generating wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf), ICLR, 2018.
+
+**Transformer**
+
+[Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
 
 ## Vision-Only PTMs
 
