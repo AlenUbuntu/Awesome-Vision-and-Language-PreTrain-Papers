@@ -97,8 +97,16 @@ Due to the large amount of research in this field, we mainly focus on research r
 ## Vision-Only PTMs
 
 ## Language-Only PTMs
-### Models
+### Modeling Techniques
 [To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks.](https://www.aclweb.org/anthology/2020.acl-main.200.pdf), ACL, 2020.
+
+[Quantifying Attention Flow in Transformers](https://www.aclweb.org/anthology/2020.acl-main.385.pdf), ACL, 2020.
+
+[Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture](https://www.aclweb.org/anthology/2020.acl-main.360.pdf), ACL, 2020.
+
+[DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://www.aclweb.org/anthology/2020.acl-main.411.pdf), ACL, 2020.
+
+[Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616.pdf), ACL, 2020.
 
 [Byte Pair Encoding is Suboptimal for Language Model Pretraining.](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) EMNLP(Findings), 2020.
 
