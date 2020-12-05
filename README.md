@@ -1,5 +1,5 @@
 # Awesome Vision and Language PreTrain Models (PTMs)
-Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020.
+Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due to the large amount of research in this field, we only focus on those researches related to modeling and representation learning, transfer learning, and multi-modal learning.
 
 ## Table of Contents
 * [Surveys](#survey)
