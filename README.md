@@ -55,6 +55,7 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 [Efficient Content-Based Sparse Attention with Routing Transformers](https://arxiv.org/pdf/2003.05997.pdf), arXiv, 2020.
 
 **Reformer**
+
 [Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
 
 **Axial Transformer**
