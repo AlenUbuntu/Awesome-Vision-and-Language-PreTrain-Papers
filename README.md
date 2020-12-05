@@ -39,7 +39,21 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020.
 
 [How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://www.aclweb.org/anthology/2020.findings-emnlp.394.pdf), EMNLP(Findings), 2020.
 
+[Document Ranking with a Pretrained Sequence-to-Sequence Model.](https://www.aclweb.org/anthology/2020.findings-emnlp.63.pdf), EMNLP(Findings), 2020.
 
+[Investigating Transferability in Pretrained Language Models.](https://www.aclweb.org/anthology/2020.findings-emnlp.125/), EMNLP(Findings), 2020.
+
+[Probing Pretrained Language Models for Lexical Semantics.](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf), EMNLP, 2020.
+
+[Integrating Task Specific Information into Pretrained Language Models for Low Resource Fine Tuning.](https://www.aclweb.org/anthology/2020.findings-emnlp.285.pdf), EMNLP(Findings), 2020.
+
+[TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising.](https://www.aclweb.org/anthology/2020.findings-emnlp.168.pdf), EMNLP(Findings), 2020.
+
+[Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models.](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), EMNLP(Findings), 2020.
+
+[Masking as an Efficient Alternative to Finetuning for Pretrained Language Models.](https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf), EMNLP, 2020.
+
+[A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining](https://www.aclweb.org/anthology/2020.findings-emnlp.19.pdf), EMNLP(Findings), 2020.
 
 
 ## Vision-Language PTMs
