@@ -39,6 +39,7 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 [Etc: Encoding long and structured data in transformers.](https://arxiv.org/pdf/2004.08483.pdf), arXiv, 2020.
 
 **Longformer**
+
 [Longformer: The long-document transformer.](https://arxiv.org/pdf/2004.05150.pdf), arXiv, 2020.
 
 **Sinkhorn Transformer**
@@ -61,6 +62,7 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 [Axial attention in multidimensional transformers.](https://arxiv.org/pdf/1912.12180.pdf), arXiv, 2019.
 
 **Sparse Transformer**
+
 [Generating long sequences with sparse transformers.](https://arxiv.org/pdf/1904.10509.pdf)
 
 **Transformer-XL**
