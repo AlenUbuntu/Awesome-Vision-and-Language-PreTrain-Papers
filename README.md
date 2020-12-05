@@ -12,6 +12,7 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
 
 ## Transformers
+![](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/transformers.png)
 
 **Performer**
 
