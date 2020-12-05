@@ -14,23 +14,28 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 
 ## Language-Only PTMs
 ### Modeling
-[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
-
-[To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks.](https://www.aclweb.org/anthology/2020.acl-main.200.pdf), ACL, 2020.
-
-[TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data.](https://www.aclweb.org/anthology/2020.acl-main.745.pdf), ACL, 2020.
-
 [Byte Pair Encoding is Suboptimal for Language Model Pretraining.](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) EMNLP(Findings), 2020.
-
-[Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media.](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf), EMNLP(Findings), 2020.
 
 [Analyzing Redundancy in Pretrained Transformer Models.](https://www.aclweb.org/anthology/2020.emnlp-main.398.pdf), EMNLP, 2020.
 
-[BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA.](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf), EMNLP, 2020.
+[How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://www.aclweb.org/anthology/2020.findings-emnlp.394.pdf), EMNLP(Findings), 2020.
+
+[Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling.](https://www.aclweb.org/anthology/P19-1439.pdf), ACL, 2019.
+
+[XLNet: Generalized Autoregressive Pretraining for Language Understanding.](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf), NIPS, 2019.
+
+[Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings.](https://www.aclweb.org/anthology/2020.acl-main.431.pdf), ACL, 2020.
+
+[Pretrained Language Model Embryology: The Birth of ALBERT.](https://www.aclweb.org/anthology/2020.emnlp-main.553.pdf), EMNLP, 2020.
+
+### Representation Learning
+[To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks.](https://www.aclweb.org/anthology/2020.acl-main.200.pdf), ACL, 2020.
+
+[Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media.](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf), EMNLP(Findings), 2020.
 
 [Multi-pretraining for Large-scale Text Classification.](https://www.aclweb.org/anthology/2020.findings-emnlp.185.pdf), EMNLP(Findings), 2020.
 
-[How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://www.aclweb.org/anthology/2020.findings-emnlp.394.pdf), EMNLP(Findings), 2020.
+[BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA.](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf), EMNLP, 2020.
 
 [Document Ranking with a Pretrained Sequence-to-Sequence Model.](https://www.aclweb.org/anthology/2020.findings-emnlp.63.pdf), EMNLP(Findings), 2020.
 
@@ -45,30 +50,6 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 [Pretraining Methods for Dialog Context Representation Learning.](https://www.aclweb.org/anthology/P19-1373.pdf), ACL, 2019.
 
 [Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings.](https://www.aclweb.org/anthology/P19-1168.pdf), ACL, 2019
-
-[Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling.](https://www.aclweb.org/anthology/P19-1439.pdf), ACL, 2019.
-
-[XLNet: Generalized Autoregressive Pretraining for Language Understanding.](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf), NIPS, 2019.
-
-### Interpretability
-[Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings.](https://www.aclweb.org/anthology/2020.acl-main.431.pdf), ACL, 2020.
-
-[Pretrained Language Model Embryology: The Birth of ALBERT.](https://www.aclweb.org/anthology/2020.emnlp-main.553.pdf), EMNLP, 2020.
-
-### Language Generation
-[Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models.](https://www.aclweb.org/anthology/2020.acl-main.439.pdf), ACL, 2020.
-
-[Effectively pretraining a speech translation decoder with Machine Translation data](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf) EMNLP, 2020.
-
-[Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT.](https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf) EMNLP, 2020.
-
-[DagoBERT: Generating Derivational Morphology with a Pretrained Language Model.](https://www.aclweb.org/anthology/2020.emnlp-main.316.pdf), EMNLP, 2020.
-
-[TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising.](https://www.aclweb.org/anthology/2020.findings-emnlp.168.pdf), EMNLP(Findings), 2020.
-
-[A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining](https://www.aclweb.org/anthology/2020.findings-emnlp.19.pdf), EMNLP(Findings), 2020.
-
-[Unsupervised Pretraining for Neural Machine Translation Using Elastic Weight Consolidation.](https://www.aclweb.org/anthology/P19-2017.pdf), ACL, 2019
 
 ### Transfer Learning
 [Unsupervised Domain Clusters in Pretrained Language Models.](https://www.aclweb.org/anthology/2020.acl-main.692.pdf), ACL, 2020.
@@ -95,12 +76,10 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020. Due
 
 [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf), NIPS, 2019.
 
-### Robustness and Stability
-[Pretrained Transformers Improve Out-of-Distribution Robustness.](https://www.aclweb.org/anthology/2020.acl-main.244.pdf), ACL, 2020.
+### Multi-Modal
+[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
 
-[Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly.](https://www.aclweb.org/anthology/2020.acl-main.698.pdf), ACL, 2020.
-
-[Weight Poisoning Attacks on Pretrained Models.](https://www.aclweb.org/anthology/2020.acl-main.249.pdf), ACL, 2020.
+[TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data.](https://www.aclweb.org/anthology/2020.acl-main.745.pdf), ACL, 2020.
 
 ## Vision-Language PTMs
 ### Image-Based VL-PTMs
