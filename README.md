@@ -48,6 +48,7 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020.
 
 [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling.](https://www.aclweb.org/anthology/P19-1439.pdf), ACL, 2019.
 
+[XLNet: Generalized Autoregressive Pretraining for Language Understanding.](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf), NIPS, 2019.
 
 ### Interpretability
 [Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings.](https://www.aclweb.org/anthology/2020.acl-main.431.pdf), ACL, 2020.
@@ -93,8 +94,6 @@ Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 11/20/2020.
 [A Comparison of Architectures and Pretraining Methods for Contextualized Multilingual Word Embeddings.](https://ojs.aaai.org//index.php/AAAI/article/view/6443), AAAI, 2020.
 
 [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf), NIPS, 2019.
-
-[XLNet: Generalized Autoregressive Pretraining for Language Understanding.](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf), NIPS, 2019.
 
 ### Robustness and Stability
 [Pretrained Transformers Improve Out-of-Distribution Robustness.](https://www.aclweb.org/anthology/2020.acl-main.244.pdf), ACL, 2020.
