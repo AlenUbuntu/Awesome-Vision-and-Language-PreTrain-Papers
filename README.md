@@ -130,6 +130,18 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
 
+**Meshed-Memory Transformer**
+
+[Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf), CVPR, 2020.
+
+**MART**
+
+[MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning](https://www.aclweb.org/anthology/2020.acl-main.233.pdf), ACL, 2020.
+
+**MulT**
+
+[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
+
 ### Graph Transformer
 **HetGT**
 
