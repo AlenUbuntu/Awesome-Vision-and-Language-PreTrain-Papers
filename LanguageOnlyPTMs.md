@@ -78,13 +78,6 @@
 
 [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf), NIPS, 2019.
 
-### Multi-Modal
-[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
-
-[TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data.](https://www.aclweb.org/anthology/2020.acl-main.745.pdf), ACL, 2020.
-
-[X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
-
 ### Others
 [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media.](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf), EMNLP(Findings), 2020.
 
