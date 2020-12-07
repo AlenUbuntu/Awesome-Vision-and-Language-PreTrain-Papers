@@ -140,6 +140,6 @@
 
 [Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings.](https://www.aclweb.org/anthology/P19-1168.pdf), ACL, 2019
 
-[HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization], ACL, 2019
+[HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://www.aclweb.org/anthology/P19-1499.pdf), ACL, 2019
 
 [Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers](https://www.aclweb.org/anthology/P19-1132.pdf), ACL, 2019.
