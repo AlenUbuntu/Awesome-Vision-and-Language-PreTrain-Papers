@@ -1,7 +1,7 @@
 # Awesome Vision and Language PreTrain Models (PTMs)
 Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/05/2020. 
 
-Due to the large amount of research in this field, we mainly focus on research related to transfer learning, multimodal learning and SOTA modeling techniques for improving model performance or efficiency.
+Due to the large amount of research in this field, we mainly focus on Vision-Only PTMs, Language-Only PTMs, Multimodal PTMs, and other releated research in this field such as transfer learning. 
 
 ## Table of Contents
 * [Surveys](#survey)
