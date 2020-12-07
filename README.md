@@ -112,6 +112,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 [Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
 
 ### Vision
+**Epipolar Transformers**
+
+[Epipolar Transformers](https://arxiv.org/pdf/2005.04551.pdf), CVPR, 2020.
+
+**Texture Transformer**
+
+[Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/pdf/2006.04139.pdf), CVPR, 2020.
+
 **Image Transformer**
 
 [Image transformer.](https://arxiv.org/pdf/1802.05751.pdf), ICML, 2018.
@@ -165,6 +173,22 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **DEFORMABLE DETR**
 
 [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf), arXiv, 2020.
+
+**Epipolar Transformers**
+
+[Epipolar Transformers](https://arxiv.org/pdf/2005.04551.pdf), CVPR, 2020.
+
+**PolyTransform**
+
+[PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://arxiv.org/pdf/1912.02801.pdf), CVPR, 2020.
+
+**Sketchformer**
+
+[Sketchformer: Transformer-based Representation for Sketched Structure](https://arxiv.org/pdf/2002.10381.pdf), CVPR, 2020.
+
+**Texture Transformer Network**
+
+[Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/pdf/2006.04139.pdf), CVPR, 2020.
 
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
@@ -235,6 +259,13 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Meshed-Memory Transformer**
 
 [Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf), CVPR, 2020.
+
+**SCT**
+
+[SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation](https://arxiv.org/pdf/2003.14266.pdf), CVPR, 2020.
+
+**M4C**
+[Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/pdf/1911.06258.pdf), CVPR, 2020.
 
 **MAG-BERT, MAG-XLNet**
 
