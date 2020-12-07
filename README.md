@@ -87,14 +87,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640.pdf), ACL, 2020.
 
-**Style Transformer**
-
-[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601.pdf), ACL, 2020.
-
-**Adaptive-Span**
-
-[Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032.pdf), ACL, 2020.
-
 **Memory-driven Transformer**
 
 [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
@@ -105,11 +97,19 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 **Sparse Transformer**
 
-[Generating long sequences with sparse transformers.](https://arxiv.org/pdf/1904.10509.pdf)
+[Generating long sequences with sparse transformers.](https://arxiv.org/pdf/1904.10509.pdf), arXiv, 2019.
+
+**Style Transformer**
+
+[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601.pdf), ACL, 2019.
 
 **Transformer-XL**
 
-[Transformer-xl: Attentive language models beyond a fixed-length context.](https://arxiv.org/pdf/1901.02860.pdf), arXiv, 2019.
+[Transformer-xl: Attentive language models beyond a fixed-length context.](https://arxiv.org/pdf/1901.02860.pdf), ACL, 2019.
+
+**Adaptive-Span**
+
+[Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032.pdf), ACL, 2019.
 
 **Set Transformer**
 
@@ -216,17 +216,18 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf), ACL, 2020.
 
-**MTN**
-
-[Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2020.
-
-**MulT**
-
-[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2020.
-
 **X-LXMERT**
 
 [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
+
+**MTN**
+
+[Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2019.
+
+**MulT**
+
+[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
+
 
 ## Vision-Only PTMs
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
