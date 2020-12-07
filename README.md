@@ -63,6 +63,26 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
 
+**Sandwitch Transformer**
+
+[Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270.pdf), ACL, 2020.
+
+**Highway Transformer**
+
+[Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616.pdf), ACL, 2020.
+
+**Cascade Transformer**
+
+[The Cascade Transformer: an Application for Efficient Answer Sentence Selection](https://www.aclweb.org/anthology/2020.acl-main.504.pdf), ACL, 2020.
+
+**Hard-Aware Transformer**
+
+[HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-main.686.pdf), ACL, 2020.
+
+**Memory-driven Transformer**
+
+[Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
+
 **Axial Transformer**
 
 [Axial attention in multidimensional transformers.](https://arxiv.org/pdf/1912.12180.pdf), arXiv, 2019.
@@ -90,14 +110,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 **Transformer**
 
 [Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
-
-**Memory-driven Transformer**
-
-[Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
-
-**Highway Transformer**
-
-[Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616.pdf), ACL, 2020.
 
 ## Well-Known Large-Scale Pretrain Models
 ---
@@ -168,9 +180,17 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
 
+**MART**
+
+[MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning](https://www.aclweb.org/anthology/2020.acl-main.233.pdf), ACL, 2020.
+
 **TaBERT**
 
 [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data.](https://www.aclweb.org/anthology/2020.acl-main.745.pdf), ACL, 2020.
+
+**AV-ASR**
+
+[Multiresolution and Multimodal Speech Recognition with Transformers](https://www.aclweb.org/anthology/2020.acl-main.216.pdf), ACL, 2020.
 
 **X-LXMERT**
 
