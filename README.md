@@ -100,11 +100,13 @@ Due to the large amount of research in this field, we mainly focus on research r
 [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616.pdf), ACL, 2020.
 
 ## Well-Known Large-Scale Pretrain Models
+---
 ### General
 **Reformer** (General)
 
 [Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
 
+---
 ### Language
 **ELECTRA** 
 
@@ -154,7 +156,9 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), NAACL, 2019.
 
+---
 ### Vision
+---
 ### Multimodal
 **MMBT**
 
