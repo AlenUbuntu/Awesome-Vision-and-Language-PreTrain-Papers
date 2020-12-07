@@ -178,10 +178,6 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Epipolar Transformers](https://arxiv.org/pdf/2005.04551.pdf), CVPR, 2020.
 
-**PolyTransform**
-
-[PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://arxiv.org/pdf/1912.02801.pdf), CVPR, 2020.
-
 **Sketchformer**
 
 [Sketchformer: Transformer-based Representation for Sketched Structure](https://arxiv.org/pdf/2002.10381.pdf), CVPR, 2020.
