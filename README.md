@@ -79,6 +79,22 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-main.686.pdf), ACL, 2020.
 
+**Multimodal Transformer**
+
+[Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
+
+**HetGT**
+
+[Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640.pdf), ACL, 2020.
+
+**Style Transformer**
+
+[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601.pdf), ACL, 2020.
+
+**Adaptive-Span**
+
+[Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032.pdf), ACL, 2020.
+
 **Memory-driven Transformer**
 
 [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
@@ -191,6 +207,22 @@ Due to the large amount of research in this field, we mainly focus on research r
 **AV-ASR**
 
 [Multiresolution and Multimodal Speech Recognition with Transformers](https://www.aclweb.org/anthology/2020.acl-main.216.pdf), ACL, 2020.
+
+**Multimodal Transformer**
+
+[Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
+
+**Unified Multimodal Transformer**
+
+[Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf), ACL, 2020.
+
+**MTN**
+
+[Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2020.
+
+**MulT**
+
+[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2020.
 
 **X-LXMERT**
 
