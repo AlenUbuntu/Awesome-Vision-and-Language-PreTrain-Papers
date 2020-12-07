@@ -202,7 +202,7 @@ Due to the large amount of research in this field, we mainly focus on research r
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
 
-## MultiModal/Vision-Language PTMs
+## MultiModal PTMs
 ### Well-Known Pretrain Models
 **MMBT**
 
@@ -244,6 +244,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
 
-### Other Topics
-[Multimodal-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
+### Specific Topic
+[Vision-Language-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
 
