@@ -16,8 +16,6 @@
 
 [Lipschitz Constrained Parameter Initialization for Deep Transformers](https://www.aclweb.org/anthology/2020.acl-main.38.pdf), ACL, 2020.
 
-[Scheduled Sampling for Transformers](https://www.aclweb.org/anthology/P19-2049.pdf), ACL, 2020.
-
 [Byte Pair Encoding is Suboptimal for Language Model Pretraining.](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) EMNLP(Findings), 2020.
 
 [Analyzing Redundancy in Pretrained Transformer Models.](https://www.aclweb.org/anthology/2020.emnlp-main.398.pdf), EMNLP, 2020.
@@ -52,6 +50,9 @@
 
 [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling.](https://www.aclweb.org/anthology/P19-1439.pdf), ACL, 2019.
 
+[Scheduled Sampling for Transformers](https://www.aclweb.org/anthology/P19-2049.pdf), ACL, 2019.
+
+
 ### Transfer Learning
 [Unsupervised Domain Clusters in Pretrained Language Models.](https://www.aclweb.org/anthology/2020.acl-main.692.pdf), ACL, 2020.
 
@@ -62,8 +63,6 @@
 [Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?](https://www.aclweb.org/anthology/2020.acl-main.467.pdf), ACL, 2020.
 
 [SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics](https://www.aclweb.org/anthology/2020.acl-main.341.pdf), ACL, 2020.
-
-[Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction](https://www.aclweb.org/anthology/P19-1134.pdf), ACL, 2020.
 
 [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models.](https://www.aclweb.org/anthology/2020.emnlp-main.479.pdf), EMNLP, 2020.
 
@@ -91,6 +90,8 @@
 
 [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf), NIPS, 2019.
 
+[Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction](https://www.aclweb.org/anthology/P19-1134.pdf), ACL, 2019.
+
 ### Others
 [SPECTER: Document-level Representation Learning using Citation-informed Transformers.](https://www.aclweb.org/anthology/2020.acl-main.207.pdf), ACL, 2020.
 
@@ -99,12 +100,6 @@
 [Regularized Context Gates on Transformer for Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.757.pdf), ACL, 2020.
 
 [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://www.aclweb.org/anthology/2020.acl-main.588.pdf), ACL, 2020.
-
-[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470.pdf), ACL, 2020.
-
-[Hierarchical Transformers for Multi-Document Summarization](https://www.aclweb.org/anthology/P19-1500.pdf), ACL, 2020.
-
-[Incremental Transformer with Deliberation Decoder for Document Grounded Conversations](https://www.aclweb.org/anthology/P19-1002.pdf), ACL, 2020.
 
 [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media.](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf), EMNLP(Findings), 2020.
 
@@ -143,3 +138,10 @@
 [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://www.aclweb.org/anthology/P19-1499.pdf), ACL, 2019
 
 [Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers](https://www.aclweb.org/anthology/P19-1132.pdf), ACL, 2019.
+
+[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470.pdf), ACL, 2019.
+
+[Incremental Transformer with Deliberation Decoder for Document Grounded Conversations](https://www.aclweb.org/anthology/P19-1002.pdf), ACL, 2019.
+
+[Hierarchical Transformers for Multi-Document Summarization](https://www.aclweb.org/anthology/P19-1500.pdf), ACL, 2019.
+
