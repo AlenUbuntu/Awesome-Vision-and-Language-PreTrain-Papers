@@ -6,7 +6,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 ## Table of Contents
 * [Surveys](#survey)
 * [Transformers](#transformers)
-* [Well-Known Large-Scale Pretrain Models](#well-known-large-scale-pretrain-models)
 * [Vision-Only PTMs](#vision-only-ptms)
 * [Language-Only PTMs](#language-only-ptms)
 * [MultiModal/Vision-Language PTMs](#multimodal-ptms)
@@ -133,7 +132,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 **Vision Transformer**
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR, 2021.
 
-
 **IPT**
 
 [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf), arXiv, 2020.
@@ -146,6 +144,7 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf), arXiv, 2020.
 
+---
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
 
@@ -199,6 +198,7 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), NAACL, 2019.
 
+---
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
 
@@ -244,6 +244,7 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
 
-### Specific Topic
+---
+### Special Topic
 [Vision-Language-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
 
