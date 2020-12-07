@@ -100,22 +100,23 @@ Due to the large amount of research in this field, we mainly focus on research r
 [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616.pdf), ACL, 2020.
 
 ## Well-Known Large-Scale Pretrain Models
+### General
+**Reformer** (General)
 
-**ELECTRA**
+[Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
+
+### Language
+**ELECTRA** 
 
 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf), ICLR, 2020.
 
-**ALBERT**
+**ALBERT** 
 
 [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf), ICLR, 2020.
 
-**Longformer**
+**Longformer** 
 
 [Longformer: The long-document transformer.](https://arxiv.org/pdf/2004.05150.pdf), arXiv, 2020.
-
-**Reformer**
-
-[Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
 
 **XLM**
 
@@ -124,10 +125,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 **DistilBERT**
 
 [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf), NeurIPS, 2019
-
-**MMBT**
-
-[Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019
 
 **T5**
 
@@ -157,19 +154,30 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), NAACL, 2019.
 
+### Vision
+### Multimodal
+**MMBT**
+
+[Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019
+
+**MAG-BERT, MAG-XLNet**
+
+[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
+
+**TaBERT**
+
+[TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data.](https://www.aclweb.org/anthology/2020.acl-main.745.pdf), ACL, 2020.
+
+**X-LXMERT**
+
+[X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
+
 ## Vision-Only PTMs
+[Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
 
 ## Language-Only PTMs
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
 
 ## Vision-Language PTMs
-### Image-Based VL-PTMs
-
-### Video-Based VL-PTMs
-[Video-Grounded Dialogues with Pretrained Generation Language Models.](https://www.aclweb.org/anthology/2020.acl-main.518.pdf), ACL, 2020.
-
-
-
-### 3D VL-PTMs
-
+[VL-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
 
