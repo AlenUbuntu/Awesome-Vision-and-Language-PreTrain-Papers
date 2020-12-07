@@ -18,6 +18,7 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 ## Transformers
 ![](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/transformers.png)
 
+### Efficiency and Performance
 **Performer**
 
 [Masked language modeling for proteins via linearly scalable long-context transformers](https://arxiv.org/pdf/2006.03555.pdf), arXiv, 2020.
@@ -78,14 +79,6 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-main.686.pdf), ACL, 2020.
 
-**Multimodal Transformer**
-
-[Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
-
-**HetGT**
-
-[Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640.pdf), ACL, 2020.
-
 **Memory-driven Transformer**
 
 [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
@@ -97,10 +90,6 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Sparse Transformer**
 
 [Generating long sequences with sparse transformers.](https://arxiv.org/pdf/1904.10509.pdf), arXiv, 2019.
-
-**Style Transformer**
-
-[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601.pdf), ACL, 2019.
 
 **Transformer-XL**
 
@@ -114,10 +103,6 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Set transformer: A framework for attention-based permutation-invariant neural networks.](https://arxiv.org/pdf/1810.00825.pdf), ICML, 2019.
 
-**Image Transformer**
-
-[Image transformer.](https://arxiv.org/pdf/1802.05751.pdf), ICML, 2018.
-
 **Memory Compressed**
 
 [Generating wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf), ICLR, 2018.
@@ -125,6 +110,30 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Transformer**
 
 [Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
+
+### Vision
+**Image Transformer**
+
+[Image transformer.](https://arxiv.org/pdf/1802.05751.pdf), ICML, 2018.
+
+### Transfer Learning
+**Style Transformer**
+
+[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601.pdf), ACL, 2019.
+
+### MultiModal
+**Sign Language Transformers**
+
+[Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://arxiv.org/pdf/2003.13830.pdf), CVPR, 2020.
+
+**Multimodal Transformer**
+
+[Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
+
+### Graph Transformer
+**HetGT**
+
+[Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640.pdf), ACL, 2020.
 
 ## Vision-Only PTMs
 ### Well-Known Pretrain Models
@@ -206,6 +215,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **MMBT**
 
 [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019
+
+**Sign Language Transformers**
+
+[Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://arxiv.org/pdf/2003.13830.pdf), CVPR, 2020.
+
+**Meshed-Memory Transformer**
+
+[Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf), CVPR, 2020.
 
 **MAG-BERT, MAG-XLNet**
 
