@@ -8,6 +8,10 @@
 
 [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://www.aclweb.org/anthology/2020.acl-main.411.pdf), ACL, 2020.
 
+[Roles and Utilization of Attention Heads in Transformer-based Neural Language Models.](https://www.aclweb.org/anthology/2020.acl-main.311.pdf), ACL, 2020.
+
+[Do Transformers Need Deep Long-Range Memory?](https://www.aclweb.org/anthology/2020.acl-main.672.pdf), ACL, 2020.
+
 [Byte Pair Encoding is Suboptimal for Language Model Pretraining.](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) EMNLP(Findings), 2020.
 
 [Analyzing Redundancy in Pretrained Transformer Models.](https://www.aclweb.org/anthology/2020.emnlp-main.398.pdf), EMNLP, 2020.
@@ -73,12 +77,19 @@
 
 [KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations](https://www.aclweb.org/anthology/2020.emnlp-main.18.pdf), EMNLP, 2020.
 
-
 [A Comparison of Architectures and Pretraining Methods for Contextualized Multilingual Word Embeddings.](https://ojs.aaai.org//index.php/AAAI/article/view/6443), AAAI, 2020.
 
 [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf), NIPS, 2019.
 
 ### Others
+[SPECTER: Document-level Representation Learning using Citation-informed Transformers.](https://www.aclweb.org/anthology/2020.acl-main.207.pdf), ACL, 2020.
+
+[Pretrained Transformers Improve Out-of-Distribution Robustness.](https://www.aclweb.org/anthology/2020.acl-main.244.pdf), ACL, 2020.
+
+[Regularized Context Gates on Transformer for Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.757.pdf), ACL, 2020.
+
+[Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://www.aclweb.org/anthology/2020.acl-main.588.pdf), ACL, 2020.
+
 [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media.](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf), EMNLP(Findings), 2020.
 
 [Multi-pretraining for Large-scale Text Classification.](https://www.aclweb.org/anthology/2020.findings-emnlp.185.pdf), EMNLP(Findings), 2020.
