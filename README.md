@@ -231,6 +231,10 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf), ACL, 2020.
 
+**VGD-GPT2**
+
+[Video-Grounded Dialogues with Pretrained Generation Language Models.](https://www.aclweb.org/anthology/2020.acl-main.518.pdf), ACL, 2020.
+
 **X-LXMERT**
 
 [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
