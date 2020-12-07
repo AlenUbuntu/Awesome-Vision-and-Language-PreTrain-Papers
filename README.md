@@ -9,7 +9,7 @@ Due to the large amount of research in this field, we mainly focus on research r
 * [Well-Known Large-Scale Pretrain Models](#well-known-large-scale-pretrain-models)
 * [Vision-Only PTMs](#vision-only-ptms)
 * [Language-Only PTMs](#language-only-ptms)
-* [Vision-Language PTMs](#vision-language-ptms)
+* [MultiModal/Vision-Language PTMs](#multimodal-ptms)
 
 ## Survey
 [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
@@ -127,15 +127,30 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
 
-## Well-Known Large-Scale Pretrain Models
----
-### General
-**Reformer** (General)
+## Vision-Only PTMs
+### Well-Known Pretrain Models
 
-[Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
+**Vision Transformer**
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR, 2021.
 
----
-### Language
+
+**IPT**
+
+[Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf), arXiv, 2020.
+
+**DETR**
+
+[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf), arXiv, 2020.
+
+**DEFORMABLE DETR**
+
+[Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf), arXiv, 2020.
+
+### Other Topics
+[Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
+
+## Language-Only PTMs
+### Well-Known Pretrain Models
 **ELECTRA** 
 
 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf), ICLR, 2020.
@@ -184,28 +199,11 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), NAACL, 2019.
 
----
-### Vision
+### Other Topics
+[Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
 
-**Vision Transformer**
-[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR, 2021.
-
-
-**IPT**
-
-[Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf), arXiv, 2020.
-
-**DETR**
-
-[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf), arXiv, 2020.
-
-**DEFORMABLE DETR**
-
-[Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf), arXiv, 2020.
-
-
----
-### Multimodal
+## MultiModal/Vision-Language PTMs
+### Well-Known Pretrain Models
 **MMBT**
 
 [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019
@@ -246,13 +244,6 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
 
-
-## Vision-Only PTMs
-[Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
-
-## Language-Only PTMs
-[Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
-
-## Vision-Language PTMs
-[VL-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
+### Other Topics
+[Multimodal-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
 
