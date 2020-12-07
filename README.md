@@ -186,6 +186,24 @@ Due to the large amount of research in this field, we mainly focus on research r
 
 ---
 ### Vision
+
+**Vision Transformer**
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR, 2021.
+
+
+**IPT**
+
+[Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf), arXiv, 2020.
+
+**DETR**
+
+[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf), arXiv, 2020.
+
+**DEFORMABLE DETR**
+
+[Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf), arXiv, 2020.
+
+
 ---
 ### Multimodal
 **MMBT**
