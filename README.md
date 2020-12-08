@@ -63,6 +63,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
 
+**FPT**
+
+[Feature Pyramid Transformer](https://arxiv.org/pdf/2007.09451.pdf), ECCV, 2020.
+
 **Sandwitch Transformer**
 
 [Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270.pdf), ACL, 2020.
@@ -162,6 +166,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR, 2021.
 
+**LambdaNetworks**
+
+[LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/pdf?id=xTJEN-ggl1b), ICLR, 2021.
+
 **IPT**
 
 [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf), arXiv, 2020.
@@ -185,6 +193,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Texture Transformer Network**
 
 [Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/pdf/2006.04139.pdf), CVPR, 2020.
+
+**iGPT**
+
+[Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf), ICML, 2020.
+
+**FPT**
+
+[Feature Pyramid Transformer](https://arxiv.org/pdf/2007.09451.pdf), ECCV, 2020.
 
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
