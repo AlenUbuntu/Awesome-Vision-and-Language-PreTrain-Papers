@@ -8,10 +8,6 @@
 
 ## Image-Based VL-PTMs
 ### Representation Learning
-**MAG-BERT, MAG-XLNet**
-
-[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
-
 **X-LXMERT**
 
 [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
@@ -111,13 +107,45 @@
 
 ## Video-Based VL-PTMs
 ### Representation Learning
+**MAG-BERT, MAG-XLNet**
+
+[Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
+
 **COOT**
 
 [COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf), NIPS, 2020.
 
+**ActBERT**
+
+[ActBERT: Learning Global-Local Video-Text Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf), CVPR, 2020.
+
+**HERO**
+
+[HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training](https://arxiv.org/pdf/2005.00200.pdf), EMNLP, 2020.
+
+**UniVL**
+
+[UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/pdf/2002.06353.pdf), arXiv, 2020.
+
+**DSTC8**
+
+[Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/pdf/2002.00163.pdf), AAAI2020 DSTC8 workshop
+
 **MulT**
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
+
+**VideoBERT**
+
+[VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf), ICCV, 2019.
+
+**CBT**
+
+[Learning Video Representations using Contrastive Bidirectional Transformer](https://arxiv.org/pdf/1906.05743.pdf), arXiv, 2019.
+
+**YouTube8M**
+
+[BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/pdf/1912.01127.pdf), ICCV 2019 YouTube8M workshop
 
 ### Task-Specific
 
@@ -128,4 +156,6 @@
 **VQA**: [Video-Grounded Dialogues with Pretrained Generation Language Models.](https://www.aclweb.org/anthology/2020.acl-main.518.pdf), ACL, 2020.
 
 **VQA**: [Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2019.
+
+**Video Caption**: [Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training](https://arxiv.org/pdf/2007.02375.pdf), arXiv, 2020.
 
