@@ -7,6 +7,7 @@
 * [Video-Based VL-PTMs](#video-based-vl-ptms)
   * [Representation Learning](#representation-learning)
   * [Task-Specific](#task-specific)
+* [List of Other Resources](#list-of-other-resources)
 
 ## Image-Based VL-PTMs
 ### Representation Learning
@@ -160,4 +161,8 @@
 **VQA**: [Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2019.
 
 **Video Caption**: [Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training](https://arxiv.org/pdf/2007.02375.pdf), arXiv, 2020.
+
+## List of Other Resources
+
+[GitHub Repo](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
