@@ -414,6 +414,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
 
+**VD-BERT**
+
+[VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/pdf/2004.13278.pdf), EMNLP, 2020.
+
+**PREVALENT**
+
+[Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/pdf/2002.10638.pdf), CVPR, 2020.
+
 **COOT**
 
 [COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf), NIPS, 2020.
@@ -446,6 +454,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/pdf/2006.16934.pdf), arXiv, 2020.
 
+**ImageBERT**
+
+[ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/pdf/2001.07966.pdf), arXiv, 2020.
+
+**XGPT**
+
+[XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/pdf/2003.01473.pdf), arXiv, 2020.
+
 **DeVLBert**
 
 [DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/pdf/2008.06884.pdf), ACM MM, 2020.
@@ -453,6 +469,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **SEMVLP**
 
 [SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels](https://openreview.net/pdf?id=Wg2PSpLZiH), ICLR, 2021.
+
+**CROSS-PROBE BERT**
+
+[Cross-Probe BERT for Efficient and Effective Cross-Modal Search](https://openreview.net/pdf?id=bW9SYKHcZiz), ICLR, 2021.
+
+**12-in-1**
+
+[12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/pdf/1912.02315.pdf), arXiv, 2020.
 
 **MTN**
 
@@ -489,6 +513,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Vision-Language Encoder**
 
 [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/pdf/1912.03063.pdf), arXiv, 2019. 
+
+**B2T2**
+
+[Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/pdf/1908.05054.pdf), EMNLP, 2019.
 
 
 ### Special Topic
