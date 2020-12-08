@@ -354,10 +354,6 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 ## Multimodal PTMs
 ### Well-Known Pretrain Models
-**MMBT**
-
-[Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019
-
 **Sign Language Transformers**
 
 [Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://arxiv.org/pdf/2003.13830.pdf), CVPR, 2020.
@@ -422,6 +418,42 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf), NIPS, 2020.
 
+**VL-BERT**
+
+[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/pdf/1908.08530.pdf), ICLR, 2020.
+
+**Unicoder-VL**
+
+[Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/pdf/1908.06066.pdf), AAAI, 2020.
+
+**VLP**
+
+[Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/pdf/1909.11059.pdf), AAAI, 2020.
+
+**InterBERT**
+
+[InterBERT: An Effective Multi-Modal Pretraining Approach via Vision-and-Language Interaction](https://arxiv.org/pdf/2003.13198.pdf), arXiv, 2020.
+
+**Oscar**
+
+[Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf), arXiv, 2020.
+
+**Pixel-BERT**
+
+[Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/pdf/2004.00849.pdf), arXiv, 2020.
+
+**ERNIE-ViL**
+
+[ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/pdf/2006.16934.pdf), arXiv, 2020.
+
+**DeVLBert**
+
+[DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/pdf/2008.06884.pdf), ACM MM, 2020.
+
+**SEMVLP**
+
+[SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels](https://openreview.net/pdf?id=Wg2PSpLZiH), ICLR, 2021.
+
 **MTN**
 
 [Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564.pdf), ACL, 2019.
@@ -433,6 +465,30 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **ETA-Transformer**
 
 [Entangled Transformer for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf), ICCV, 2019.
+
+**ViLBERT**
+
+[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265.pdf), NIPS, 2019
+
+**LXMERT**
+
+[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf), EMNLP, 2019.
+
+**MMBT**
+
+[Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/pdf/1909.02950.pdf), arXiv, 2019.
+
+**VisualBERT**
+
+[VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/pdf/1908.03557.pdf), arXiv, 2019.
+
+**UNITER**
+
+[UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf), arXiv, 2019.
+
+**Vision-Language Encoder**
+
+[Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/pdf/1912.03063.pdf), arXiv, 2019. 
 
 
 ### Special Topic
