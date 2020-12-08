@@ -172,6 +172,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf), NIPS, 2020.
 
+**Face Identity Transformers**
+
+[Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/pdf/1911.11759.pdf), ECCV, 2020.
+
 **Image Transformer**
 
 [Image transformer.](https://arxiv.org/pdf/1802.05751.pdf), ICML, 2018.
@@ -193,6 +197,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Meshed-Memory Transformer**
 
 [Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf), CVPR, 2020.
+
+**MMT**
+
+[Multi-modal Transformer for Video Retrieval](https://arxiv.org/pdf/2007.10639.pdf), ECCV, 2020.
+
+**SA-M4C**
+
+[Spatially Aware Multimodal Transformers for TextVQA](https://arxiv.org/pdf/2007.12146.pdf), ECCV, 2020.
 
 **MART**
 
@@ -253,6 +265,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **FPT**
 
 [Feature Pyramid Transformer](https://arxiv.org/pdf/2007.09451.pdf), ECCV, 2020.
+
+**STAR**
+
+[Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://arxiv.org/pdf/2005.08514.pdf), ECCV, 2020.
 
 **RelationNet++**
 
@@ -348,6 +364,18 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/pdf/1911.06258.pdf), CVPR, 2020.
 
+**MMT**
+
+[Multi-modal Transformer for Video Retrieval](https://arxiv.org/pdf/2007.10639.pdf), ECCV, 2020.
+
+**SA-M4C**
+
+[Spatially Aware Multimodal Transformers for TextVQA](https://arxiv.org/pdf/2007.12146.pdf), ECCV, 2020.
+
+**Progressive Transformers**
+
+[Progressive Transformers for End-to-End Sign Language Production](https://arxiv.org/pdf/2004.14874.pdf), ECCV, 2020.
+
 **MAG-BERT, MAG-XLNet**
 
 [Integrating Multimodal Information in Large Pretrained Transformers.](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL, 2020.
@@ -391,6 +419,11 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **MulT**
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf), ACL, 2019.
+
+**ETA-Transformer**
+
+[Entangled Transformer for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf), ICCV, 2019.
+
 
 ### Special Topic
 [Vision-Language-PTMs](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VL-PTMs.md)
