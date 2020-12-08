@@ -1,5 +1,5 @@
 # Awesome Vision and Language PreTrain Models (PTMs)
-Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/05/2020. 
+Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/07/2020. 
 
 Due to the large amount of research in this field, we mainly focus on Vision-Only PTMs, Language-Only PTMs, Multimodal PTMs, and other releated research in this field such as transfer learning. 
 
@@ -304,7 +304,7 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
 
-## MultiModal PTMs
+## Multimodal PTMs
 ### Well-Known Pretrain Models
 **MMBT**
 
@@ -323,6 +323,7 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 [SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation](https://arxiv.org/pdf/2003.14266.pdf), CVPR, 2020.
 
 **M4C**
+
 [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/pdf/1911.06258.pdf), CVPR, 2020.
 
 **MAG-BERT, MAG-XLNet**
