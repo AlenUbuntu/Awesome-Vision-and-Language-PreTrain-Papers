@@ -418,9 +418,17 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/pdf/2004.13278.pdf), EMNLP, 2020.
 
+**HERO**
+
+[HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training](https://arxiv.org/pdf/2005.00200.pdf), EMNLP, 2020.
+
 **PREVALENT**
 
 [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/pdf/2002.10638.pdf), CVPR, 2020.
+
+**ActBERT**
+
+[ActBERT: Learning Global-Local Video-Text Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf), CVPR, 2020.
 
 **COOT**
 
@@ -462,6 +470,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/pdf/2003.01473.pdf), arXiv, 2020.
 
+**UniVL**
+
+[UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/pdf/2002.06353.pdf), arXiv, 2020.
+
+**TransED**
+
+[Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training](https://arxiv.org/pdf/2007.02375.pdf), arXiv, 2020.
+
 **DeVLBert**
 
 [DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/pdf/2008.06884.pdf), ACM MM, 2020.
@@ -490,6 +506,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Entangled Transformer for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf), ICCV, 2019.
 
+**VideoBERT**
+
+[VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf), ICCV, 2019.
+
 **ViLBERT**
 
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265.pdf), NIPS, 2019
@@ -513,6 +533,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Vision-Language Encoder**
 
 [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/pdf/1912.03063.pdf), arXiv, 2019. 
+
+**CBT**
+
+[Learning Video Representations using Contrastive Bidirectional Transformer](https://arxiv.org/pdf/1906.05743.pdf), arXiv, 2019.
 
 **B2T2**
 
