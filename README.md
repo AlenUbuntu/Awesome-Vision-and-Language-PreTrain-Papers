@@ -15,9 +15,19 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Transformers: State-of-the-Art Natural Language Processing](https://www.aclweb.org/anthology/2020.emnlp-demos.6.pdf)
 
+[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf), arXiv, 2020.
+
+[A Survey on Contextual Embeddings](https://arxiv.org/pdf/2003.07278.pdf), arXiv, 2020.
+
+[Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf), arXiv, 2020.
+
 [O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers](https://proceedings.neurips.cc/paper/2020/file/9ed27554c893b5bad850a422c3538c15-Paper.pdf), NIPS, 2020.
 
 [Are Transformers universal approximators of sequence-to-sequence functions?](https://openreview.net/pdf?id=ByxRM0Ntvr), ICLR, 2020.
+
+[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715409), arXiv, 2019.
+
+[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/pdf/1705.09406.pdf), TPAMI, 2018.
 
 ## Transformers
 ![](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/transformers.png)
