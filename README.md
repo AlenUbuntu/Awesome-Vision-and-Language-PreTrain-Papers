@@ -15,6 +15,8 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Transformers: State-of-the-Art Natural Language Processing](https://www.aclweb.org/anthology/2020.emnlp-demos.6.pdf)
 
+[O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers](https://proceedings.neurips.cc/paper/2020/file/9ed27554c893b5bad850a422c3538c15-Paper.pdf), NIPS, 2020.
+
 ## Transformers
 ![](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/transformers.png)
 
@@ -87,6 +89,22 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf), EMNLP, 2020.
 
+**Funnel-Transformer**
+
+[Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing](https://proceedings.neurips.cc/paper/2020/file/2cd2915e69546904e4e5d4a2ac9e1652-Paper.pdf), NIPS, 2020.
+
+**LL**
+
+[Deep Transformers with Latent Depth](https://proceedings.neurips.cc/paper/2020/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf), NIPS, 2020.
+
+**Fast Transformers with Clustered Attention**
+
+[Fast Transformers with Clustered Attention](https://proceedings.neurips.cc/paper/2020/file/f6a8dd1c954c8506aadc764cc32b895e-Paper.pdf), NIPS, 2020.
+
+**PLD**
+
+[Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping](https://proceedings.neurips.cc/paper/2020/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf), NIPS, 2020.
+
 **Axial Transformer**
 
 [Axial attention in multidimensional transformers.](https://arxiv.org/pdf/1912.12180.pdf), arXiv, 2019.
@@ -107,6 +125,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Set transformer: A framework for attention-based permutation-invariant neural networks.](https://arxiv.org/pdf/1810.00825.pdf), ICML, 2019.
 
+**Levenshtein Transformer**
+
+[Levenshtein Transformer](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf), NIPS, 2019.
+
 **Memory Compressed**
 
 [Generating wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf), ICLR, 2018.
@@ -123,6 +145,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Texture Transformer**
 
 [Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/pdf/2006.04139.pdf), CVPR, 2020.
+
+**SE(3)-Transformers**
+
+[SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf), NIPS, 2020.
 
 **Image Transformer**
 
@@ -158,6 +184,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **HetGT**
 
 [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640.pdf), ACL, 2020.
+
+**GTN**
+
+[Graph Transformer Networks](https://proceedings.neurips.cc/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf), NIPS, 2019.
 
 ## Vision-Only PTMs
 ### Well-Known Pretrain Models
@@ -202,6 +232,14 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Feature Pyramid Transformer](https://arxiv.org/pdf/2007.09451.pdf), ECCV, 2020.
 
+**RelationNet++**
+
+[RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder](https://proceedings.neurips.cc/paper/2020/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf), NIPS, 2020.
+
+**SE(3)-Transformers**
+
+[SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf), NIPS, 2020.
+
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/VisionOnlyPTMs.md)
 
@@ -214,6 +252,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **ALBERT** 
 
 [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf), ICLR, 2020.
+
+**MINILM**
+
+[MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://proceedings.neurips.cc/paper/2020/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), NIPS, 2020.
 
 **Longformer** 
 
@@ -254,6 +296,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Bert**
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), NAACL, 2019.
+
+**Ouroboros**
+
+[Ouroboros: On Accelerating Training of Transformer-Based Language Models](https://proceedings.neurips.cc/paper/2019/file/1b79b52d1bf6f71b2b1eb7ca08ed0776-Paper.pdf), NIPS, 2019.
 
 ### Other Topics
 [Modeling Techniques, Transfer Learning and Applications](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/LanguageOnlyPTMs.md)
@@ -310,6 +356,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **X-LXMERT**
 
 [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf), EMNLP, 2020.
+
+**COOT**
+
+[COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf), NIPS, 2020.
 
 **MTN**
 
