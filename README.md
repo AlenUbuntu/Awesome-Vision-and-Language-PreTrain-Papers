@@ -17,6 +17,8 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers](https://proceedings.neurips.cc/paper/2020/file/9ed27554c893b5bad850a422c3538c15-Paper.pdf), NIPS, 2020.
 
+[Are Transformers universal approximators of sequence-to-sequence functions?](https://openreview.net/pdf?id=ByxRM0Ntvr), ICLR, 2020.
+
 ## Transformers
 ![](https://github.com/AlenUbuntu/Awesome-Vision-and-Language-PreTrain-Models/blob/main/transformers.png)
 
@@ -57,13 +59,29 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 
 [Compressive transformers for long-range sequence modelling.](https://arxiv.org/pdf/1911.05507.pdf), ICLR, 2020.
 
-**Routing Transformer**
-
-[Efficient Content-Based Sparse Attention with Routing Transformers](https://arxiv.org/pdf/2003.05997.pdf), arXiv, 2020.
-
 **Reformer**
 
 [Reformer: The efficient transformer.](https://arxiv.org/pdf/2001.04451.pdf), ICLR, 2020.
+
+**Depth-Adaptive Transformer**
+
+[Depth-Adaptive Transformer](https://openreview.net/pdf?id=SJg7KhVKPH), ICLR, 2020.
+
+**LayerDrop**
+
+[Reducing Transformer Depth on Demand with Structured Dropout](https://openreview.net/pdf?id=SylO2yStDr), ICLR, 2020.
+
+**Lite Transformer**
+
+[Lite Transformer with Long-Short Range Attention](https://openreview.net/pdf?id=ByeMPlHKPH), ICLR, 2020.
+
+**TRANSFORMER-XH**
+
+[Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention](https://openreview.net/pdf?id=r1eIiCNYwS), ICLR, 2020.
+
+**Routing Transformer**
+
+[Efficient Content-Based Sparse Attention with Routing Transformers](https://arxiv.org/pdf/2003.05997.pdf), arXiv, 2020.
 
 **FPT**
 
@@ -128,6 +146,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 **Levenshtein Transformer**
 
 [Levenshtein Transformer](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf), NIPS, 2019.
+
+**Universal Transformers**
+
+[Universal Transformers](https://openreview.net/pdf?id=HyzdRiR9Y7), ICLR, 2019.
 
 **Memory Compressed**
 
