@@ -75,6 +75,8 @@
 ### Task-Specific
 **Image Caption**: [Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf), CVPR, 2020.
 
+**Image Caption**: [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/pdf/2003.01473.pdf), arXiv, 2020.
+
 **Image Caption**: [Entangled Transformer for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf), ICCV, 2019.
 
 **Machine Translation**: [Multimodal Transformer for Multimodal Machine Translation.](https://www.aclweb.org/anthology/2020.acl-main.400.pdf), ACL, 2020.
@@ -87,9 +89,25 @@
 
 **NER**: [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf), ACL, 2020.
 
+**VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/pdf/2004.13278.pdf), EMNLP, 2020.
+
+**VisDial**: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/pdf/1912.02379.pdf), ECCV, 2020.
+
+**Vision-and-Language Navigation**: [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/pdf/2002.10638.pdf), CVPR, 2020.
+
+**Text-Image Retrieval**: [ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/pdf/2001.07966.pdf), arXiv, 2020.
+
+**Text-Image Retrieval**: [Cross-Probe BERT for Efficient and Effective Cross-Modal Search](https://openreview.net/pdf?id=bW9SYKHcZiz), ICLR, 2021.
+
+**Visial Common Sense Reasoning**: [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/pdf/1908.05054.pdf), EMNLP, 2019.
 
 
 ### Others
+[Are we pretraining it right? Digging deeper into visio-linguistic pretraining](https://arxiv.org/pdf/2004.08744.pdf), arXiv, 2020.
+
+[Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models](https://arxiv.org/pdf/2005.07310.pdf), arXiv, 2020.
+
+[12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/pdf/1912.02315.pdf), arXiv, 2020.
 
 ## Video-Based VL-PTMs
 ### Representation Learning
