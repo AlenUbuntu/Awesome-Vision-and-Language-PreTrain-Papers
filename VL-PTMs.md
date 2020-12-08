@@ -5,6 +5,8 @@
   * [Task-Specific](#task-specific)
   * [Others](#others)
 * [Video-Based VL-PTMs](#video-based-vl-ptms)
+  * [Representation Learning](#representation-learning)
+  * [Task-Specific](#task-specific)
 
 ## Image-Based VL-PTMs
 ### Representation Learning
