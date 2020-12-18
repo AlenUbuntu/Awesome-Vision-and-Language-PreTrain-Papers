@@ -1,4 +1,4 @@
-# Awesome Vision and Language PreTrain Models (PTMs)
+# Awesome Vision and Language PreTrain Model (PTM) Papers
 Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/07/2020. 
 
 Due to the large amount of research in this field, we mainly focus on Vision-Only PTMs, Language-Only PTMs, Multimodal PTMs, and other releated research in this field such as transfer learning. 
