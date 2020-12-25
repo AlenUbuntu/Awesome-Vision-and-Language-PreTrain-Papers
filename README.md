@@ -1,5 +1,5 @@
 # Awesome Vision and Language PreTrain Model (PTM) Papers
-Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/07/2020. 
+Maintained by [Yang Gao]() (ustcgaoy01@gmail.com) Last Update on 12/25/2020. 
 
 Due to the large amount of research in this field, we mainly focus on Vision-Only PTMs, Language-Only PTMs, Multimodal PTMs, and other releated research in this field such as transfer learning. 
 
@@ -170,6 +170,10 @@ Due to the large amount of research in this field, we mainly focus on Vision-Onl
 [Attention is all you need.](https://arxiv.org/pdf/1706.03762.pdf), NuerIPS, 2017
 
 ### Vision
+**DeiT**
+
+[Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), arXiv, 2020.
+
 **Epipolar Transformers**
 
 [Epipolar Transformers](https://arxiv.org/pdf/2005.04551.pdf), CVPR, 2020.
